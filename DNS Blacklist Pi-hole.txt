@@ -1,0 +1,44 @@
+api.tw06.xlmc.sec.miui.com
+tmfsdktcpv4.m.qq.com
+statres.quickapp.cn
+screentime.comm.miui.com # Added from Query Log
+api.assistant.miui.com # Added from Query Log
+pilot.traefik.io # bouton iframe inutile
+(\.|^)cn$ # any chinese website
+tracking.miui.com # Added from Query Log
+cn.app.chat.xiaomi.net
+fmf.fe.apple-dns.net # weird ipad site
+dns.msftncsi.com # Added from Query Log
+log.pinterest.com # https://d3ward.github.io/toolz/src/adblock.html
+widgets.pinterest.com # https://d3ward.github.io/toolz/src/adblock.html
+analytics.pinterest.com # https://d3ward.github.io/toolz/src/adblock.html
+trk.pinterest.com # https://d3ward.github.io/toolz/src/adblock.html
+analytics.tiktok.com # https://d3ward.github.io/toolz/src/adblock.html
+appmetrica.yandex.com # https://d3ward.github.io/toolz/src/adblock.html
+yandexadexchange.net
+analytics.mobile.yandex.net # https://d3ward.github.io/toolz/src/adblock.html
+extmaps-api.yandex.net # https://d3ward.github.io/toolz/src/adblock.html
+data.mistat.xiaomi.com # https://d3ward.github.io/toolz/src/adblock.html
+data.mistat.intl.xiaomi.com # https://d3ward.github.io/toolz/src/adblock.html
+data.mistat.india.xiaomi.com # https://d3ward.github.io/toolz/src/adblock.html
+adsdk.yandex.ru # https://d3ward.github.io/toolz/src/adblock.html
+browser.sentry-cdn.com # https://d3ward.github.io/toolz/src/adblock.html
+report.sp.miui.com # Added from Query Log
+cdn.experiment.xiaomi.com # Added from Query Log
+(\.|^)qq\.com$
+self.events.data.microsoft.com # test telemetry
+(\.|^)bing\.com$
+mtalk.google.com
+dns.google
+achievement-dre.things.hicloud.com # Added from Query Log
+healthactivity-dre.things.hicloud.com # Added from Query Log
+sportdata-dre.things.hicloud.com # Added from Query Log
+configserver-dre.platform.hicloud.com # Added from Query Log
+sportsuggest-dre.things.hicloud.com # Added from Query Log
+update-dre.platform.hicloud.com # Added from Query Log
+#healthsession.things.dbankcloud.com # Added from Query Log
+healthdeviceagent-dre.things.hicloud.com # Added from Query Log
+servicesupport2.hicloud.com # Added from Query Log
+adduplex-serving.*\.cloudapp\..*$ # Windows app ads
+(\.|^)adduplex\.com$ # Windows app ads
+v[0-9]+.events.data.microsoft.com # https://docs.microsoft.com/en-us/windows/privacy/windows-endpoints-1903-non-enterprise-editions
