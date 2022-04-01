@@ -8,7 +8,7 @@ pilot.traefik.io # bouton iframe inutile
 tracking.miui.com # Added from Query Log
 cn.app.chat.xiaomi.net
 fmf.fe.apple-dns.net # weird ipad site
-dns.msftncsi.com # Added from Query Log
+# dns.msftncsi.com # Windows network connectivity, leave it
 log.pinterest.com # https://d3ward.github.io/toolz/src/adblock.html
 widgets.pinterest.com # https://d3ward.github.io/toolz/src/adblock.html
 analytics.pinterest.com # https://d3ward.github.io/toolz/src/adblock.html
