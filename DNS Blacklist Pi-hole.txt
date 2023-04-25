@@ -42,3 +42,4 @@ servicesupport2.hicloud.com # Added from Query Log
 adduplex-serving.*\.cloudapp\..*$ # Windows app ads
 (\.|^)adduplex\.com$ # Windows app ads
 v[0-9]+.events.data.microsoft.com # https://docs.microsoft.com/en-us/windows/privacy/windows-endpoints-1903-non-enterprise-editions
+izatcloud.net # https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker
